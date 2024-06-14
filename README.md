@@ -2,7 +2,7 @@
 
 ERC-6123, Smart Derivative Contract
 
-![XFT Smart Derivatives](Smart%20Derivatives.jpg)
+![XFT Smart Derivatives](Smart%20Derivatives%Sequence%Diagram.jpg)
 
 ## Description
 
