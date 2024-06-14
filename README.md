@@ -2,6 +2,8 @@
 
 ERC-6123, Smart Derivative Contract
 
+![XFT Smart Derivatives](Smart%20Derivatives.jpg)
+
 ## Description
 
 The reference SDC implementation can be unit tested with Hardhat to understand the trade process logic.
